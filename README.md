@@ -53,3 +53,4 @@ $$
 
 # ライセンス
 このリポジトリは Apache License, Version 2.0 に基づいて公開されている．
+© 2026 Sho Haneishi
