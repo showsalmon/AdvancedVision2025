@@ -54,6 +54,6 @@ $$
 # ライセンス
 このリポジトリは Apache License, Version 2.0 に基づいて公開されています．
 
-ライセンスの全文は(https://www.apache.org/licenses/LICENSE-2.0)
+ライセンスの全文は https://www.apache.org/licenses/LICENSE-2.0
 
 © 2026 Sho Haneishi
