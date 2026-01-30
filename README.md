@@ -49,6 +49,9 @@ $$
 L(x, \hat{x}) = -\sum_{i=1}^{784}[x_ilog\hat{x_i} + (1-x_i)log(1-\hat{x_i})]
 $$
 
+# 実行方法
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/showsalmon/AdvancedVision2025/blob/main/main.ipynb)
+
 # 参考文献
 [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html) (Apache License, Version 2.0)
 
