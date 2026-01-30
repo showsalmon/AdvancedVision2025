@@ -88,6 +88,7 @@ $$
 - GPU：NVIDIA Tesla T4
 - Python：3.12.12
 - Matplotlib：3.10.0
+- TensorFlow：2.19.0
 
 ## 実行結果
 エポック数を30，潜在表現の次元数を32での実行結果です．
