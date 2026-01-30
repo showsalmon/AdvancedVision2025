@@ -79,6 +79,7 @@ $$
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUeFP4zBCj_Pfstn23vXWvJMovSQODZe?hl=ja#scrollTo=Jxv9LluAv46t)
 
 2. ランタイムのタイプを「Python 3」に設定し，ハードウェア　アクセラレータを GPU（T4 推奨）に設定してください．
+
 ![GoogleColab](images/google_colab.png)
 
 3. ノートブック上部から順にセルを実行してください．
