@@ -92,7 +92,7 @@ $$
 ## 実行結果
 エポック数を30，潜在表現の次元数を32での実行結果です．
 ![出力](images/reconstruction.png)
-![グラフ](images/loss_curve.png)
+![出力](images/loss_curve.png)
 
 ## 参考文献
 [Buliding Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html) (Apache License, Version 2.0)
