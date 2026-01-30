@@ -49,8 +49,13 @@ $$
 L(x, \hat{x}) = -\sum_{i=1}^{784}[x_ilog\hat{x_i} + (1-x_i)log(1-\hat{x_i})]
 $$
 
-# 実行方法
+# 実行方法 (Google Colab)
+1. 以下のボタンから，Google Colab上でノートブックを直接開くことができます．
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUeFP4zBCj_Pfstn23vXWvJMovSQODZe?hl=ja#)
+
+2. ランタイムのタイプを「Python 3」に設定し，ハードウェアアクセラレータをGPU（T4 推奨）に設定してください．
+3. ノートブック上部から順にセルを実行してください（実行にはgoogleアカウントへログイン必須）．
 
 # 参考文献
 [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html) (Apache License, Version 2.0)
