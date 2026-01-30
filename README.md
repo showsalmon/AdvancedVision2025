@@ -48,3 +48,13 @@ $$
 $$ 
 L(x, \hat{x}) = -\sum_{i=1}^{784}[x_i log\hat{x_i}+(1-x_i)log(1-\hat{x_i})]
 $$
+
+## 参考文献
+[Buliding Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html) (Apache License, Version 2.0)
+
+## ライセンス
+このリポジトリはApache License, Version 2.0に基づいて公開されています．
+
+ライセンスの全文は[LICENSE](https://github.com/showsalmon/AdvancedVision2025/blob/main/LICENSE)またはhttps://www.apache.org/licenses/LICENSE-2.0 から確認できます．
+
+© 2026 Sho Haneishi
