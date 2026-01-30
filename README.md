@@ -75,12 +75,19 @@ $$
 
 ## 実行方法（Google Colab）
 1. 以下のボタンから，Google Colab上でノートブックを直接開くことができます．
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUeFP4zBCj_Pfstn23vXWvJMovSQODZe?hl=ja#scrollTo=Jxv9LluAv46t)
 
 2. ランタイムのタイプを「Python 3」に設定し，ハードウェア　アクセラレータを GPU（T4 推奨）に設定してください．
 ![GoogleColab](images/google_colab.png)
 
 3. ノートブック上部から順にセルを実行してください．
+
+## 動作環境
+- 実行環境：Google Colab
+- GPU：NVIDIA Tesla T4
+- Python：3.12.12
+- Matplotlib：3.10.0
 
 ## 参考文献
 [Buliding Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html) (Apache License, Version 2.0)
