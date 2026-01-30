@@ -70,7 +70,7 @@ $$
 本実装では再構成誤差としてBinary Cross-Entropyを使用した．損失を $L$ とすると $x$ および $\hat{x}$ の誤差は次式で表させる．
 
 $$ 
-L(x, \hat{x}) = -\sum_{i=1}^{784}[x_i log\hat{x_i}+(1-x_i)log(1-\hat{x_i})]
+L(x, \hat{x}) = -\sum_{i=1}^{784}\left[ x_i log\hat{x_i}+(1-x_i)log(1-\hat{x_i}) \right]
 $$
 
 ## 実行方法（Google Colab）
