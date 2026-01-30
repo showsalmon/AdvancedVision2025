@@ -31,13 +31,13 @@ $$
 活性化関数
 - ReLU
 
-  $$
-  ReLU(x) = max(0, x)
-  $$
+$$
+ReLU(x) = max(0, x)
+$$
   
 - Sigmoid
   
-  $$
-  \sigma(x) = \frac{1}{1 + e^{-x}}
-  $$
+$$
+\sigma(x) = \frac{1}{1 + e^{-x}}
+$$
   
