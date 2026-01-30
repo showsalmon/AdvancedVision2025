@@ -57,7 +57,7 @@ $$
 - ReLU
 
 $$
-ReLU(x) max(0, x)
+ReLU(x) = max(0, x)
 $$
 
 - Sigmoid
